@@ -8,4 +8,4 @@ while 7==7:
     str3= str2[5].split('\\')
 
     print(int(str3[0]))
-    time.sleep(1.5)
+    time.sleep(1.5)123
